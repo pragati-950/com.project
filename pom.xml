@@ -54,7 +54,7 @@
 	</dependencies>
 
 	<build>
-		<finalNamehcl></finalName>
+		<finalName>hcl</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
